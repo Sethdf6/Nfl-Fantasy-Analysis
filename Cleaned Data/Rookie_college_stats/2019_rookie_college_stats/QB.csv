@@ -1,0 +1,38 @@
+Season,Team,Conf,Class,Pos,G,Cmp,Att,Cmp%,Yds,TD,TD%,Int,Int%,Y/A,AY/A,Y/C,Y/G,Rate,Awards,Player
+2015*,Texas A&M,SEC,FR,QB,8,72,121,59.5,686,5,4.1,7,5.8,5.7,3.89,9.5,85.8,109.2,,Kyler Murray
+,,,,,,,,,,,,,,,,,,,,Kyler Murray
+2017*,Oklahoma,Big 12,SO,QB,7,18,21,85.7,359,3,14.3,0,0.0,17.1,19.95,19.9,51.3,276.5,,Kyler Murray
+2018*,Oklahoma,Big 12,JR,QB,14,260,377,69.0,4361,42,11.1,7,1.9,11.6,12.96,16.8,311.5,199.2,H-1,Kyler Murray
+2016,Duke,ACC,FR,QB,12,270,430,62.8,2836,16,3.7,9,2.1,6.6,6.40,10.5,236.3,126.3,,Daniel Jones
+2017*,Duke,ACC,SO,QB,13,257,453,56.7,2691,14,3.1,11,2.4,5.9,5.47,10.5,207.0,112.0,,Daniel Jones
+2018*,Duke,ACC,JR,QB,11,237,392,60.5,2674,22,5.6,9,2.3,6.8,6.91,11.3,243.1,131.7,,Daniel Jones
+2017*,Ohio State,Big Ten,FR,QB,8,40,57,70.2,565,4,7.0,1,1.8,9.9,10.53,14.1,70.6,173.1,,Dwayne Haskins
+2018*,Ohio State,Big Ten,SO,QB,14,373,533,70.0,4831,50,9.4,8,1.5,9.1,10.26,13.0,345.1,174.1,H-3,Dwayne Haskins
+2015,Missouri,SEC,FR,QB,12,129,263,49.0,1332,4,1.5,8,3.0,5.1,4.00,10.3,111.0,90.5,,Drew Lock
+2016,Missouri,SEC,SO,QB,12,237,434,54.6,3399,23,5.3,10,2.3,7.8,7.85,14.3,283.3,133.3,,Drew Lock
+2017*,Missouri,SEC,JR,QB,13,242,419,57.8,3964,44,10.5,13,3.1,9.5,10.16,16.4,304.9,165.7,,Drew Lock
+2018*,Missouri,SEC,SR,QB,13,275,437,62.9,3498,28,6.4,8,1.8,8.0,8.46,12.7,269.1,147.7,,Drew Lock
+2015*,Florida,SEC,FR,QB,6,106,161,65.8,1204,10,6.2,3,1.9,7.5,7.88,11.4,200.7,145.4,,Will Grier
+,,,,,,,,,,,,,,,,,,,,Will Grier
+2017*,West Virginia,Big 12,JR,QB,11,250,388,64.4,3490,34,8.8,12,3.1,9.0,9.36,14.0,317.3,162.7,,Will Grier
+2018*,West Virginia,Big 12,SR,QB,11,266,397,67.0,3864,37,9.3,8,2.0,9.7,10.69,14.5,351.3,175.5,H-4,Will Grier
+2014*,Boise State,MWC,FR,QB,5,12,27,44.4,161,2,7.4,1,3.7,6.0,5.78,13.4,32.2,111.6,,Ryan Finley
+2015*,Boise State,MWC,SO,QB,3,46,70,65.7,485,1,1.4,4,5.7,6.9,4.64,10.5,161.7,117.2,,Ryan Finley
+2016*,North Carolina State,ACC,JR,QB,13,243,402,60.4,3055,18,4.5,8,2.0,7.6,7.60,12.6,235.0,135.1,,Ryan Finley
+2017*,North Carolina State,ACC,JR,QB,13,312,479,65.1,3518,17,3.5,6,1.3,7.3,7.49,11.3,270.6,136.0,,Ryan Finley
+2018*,North Carolina State,ACC,SR,QB,13,326,484,67.4,3928,25,5.2,11,2.3,8.1,8.13,12.0,302.2,148.0,,Ryan Finley
+2015*,Baylor,Big 12,FR,QB,10,75,109,68.8,1265,12,11.0,2,1.8,11.6,12.98,16.9,126.5,199.0,,Jarrett Stidham
+,,,,,,,,,,,,,,,,,,,,Jarrett Stidham
+2017*,Auburn,SEC,SO,QB,14,246,370,66.5,3158,18,4.9,6,1.6,8.5,8.78,12.8,225.6,151.0,,Jarrett Stidham
+2018*,Auburn,SEC,JR,QB,13,224,369,60.7,2794,18,4.9,5,1.4,7.6,7.94,12.5,214.9,137.7,,Jarrett Stidham
+2015*,Northwestern,Big Ten,FR,QB,13,150,295,50.8,1522,7,2.4,9,3.1,5.2,4.26,10.1,117.1,95.9,,Clayton Thorson
+2016*,Northwestern,Big Ten,SO,QB,13,280,478,58.6,3182,22,4.6,9,1.9,6.7,6.73,11.4,244.8,125.9,,Clayton Thorson
+2017*,Northwestern,Big Ten,JR,QB,13,262,434,60.4,2844,15,3.5,12,2.8,6.6,6.00,10.9,218.8,121.3,,Clayton Thorson
+2018*,Northwestern,Big Ten,SR,QB,14,299,489,61.1,3183,17,3.5,15,3.1,6.5,5.82,10.6,227.4,121.2,,Clayton Thorson
+2016,East Carolina,American,SO,QB,7,119,202,58.9,1347,8,4.0,4,2.0,6.7,6.57,11.3,192.4,124.0,,Gardner Minshew II
+2017,East Carolina,American,JR,QB,10,174,304,57.2,2140,16,5.3,7,2.3,7.0,7.06,12.3,214.0,129.1,,Gardner Minshew II
+2018*,Washington State,Pac-12,SR,QB,13,468,662,70.7,4779,38,5.7,9,1.4,7.2,7.76,10.2,367.6,147.6,H-5,Gardner Minshew II
+2015*,Penn State,Big Ten,FR,QB,7,20,40,50.0,185,2,5.0,0,0.0,4.6,5.63,9.3,26.4,105.4,,Trace McSorley
+2016*,Penn State,Big Ten,SO,QB,14,224,387,57.9,3614,29,7.5,8,2.1,9.3,9.91,16.1,258.1,156.9,,Trace McSorley
+2017*,Penn State,Big Ten,JR,QB,13,284,427,66.5,3570,28,6.6,10,2.3,8.4,8.62,12.6,274.6,153.7,,Trace McSorley
+2018*,Penn State,Big Ten,SR,QB,13,192,361,53.2,2530,18,5.0,7,1.9,7.0,7.13,13.2,194.6,124.6,,Trace McSorley

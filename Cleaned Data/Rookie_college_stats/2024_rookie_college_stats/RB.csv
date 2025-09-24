@@ -1,0 +1,61 @@
+Season,Team,Conf,Class,Pos,G,Rushing Att,Rushing Yds,Rushing Y/A,Rushing TD,Rushing Y/G,Receiving Rec,Receiving Yds,Receiving Y/R,Receiving TD,Receiving Y/G,Scrimmage Plays,Scrimmage Yds,Scrimmage Avg,Scrimmage TD,Awards,Player
+2021,Texas,Big 12,FR,RB,5,21,143,6.8,1,28.6,1,12,12.0,0,2.4,22,155,7.0,1,,Jonathon Brooks
+2022*,Texas,Big 12,FR,RB,7,30,197,6.6,5,28.1,2,37,18.5,1,5.3,32,234,7.3,6,,Jonathon Brooks
+2023*,Texas,Big 12,SO,RB,11,187,1139,6.1,10,103.5,25,286,11.4,1,26.0,212,1425,6.7,11,,Jonathon Brooks
+2021*,Oregon,Pac-12,FR,RB,10,6,22,3.7,1,2.2,0,0,,0,0.0,6,22,3.7,1,,Trey Benson
+2022*,Florida State,ACC,SO,RB,13,154,990,6.4,9,76.2,13,144,11.1,0,11.1,167,1134,6.8,9,,Trey Benson
+2023*,Florida State,ACC,JR,RB,13,156,906,5.8,14,69.7,20,227,11.4,1,17.5,176,1133,6.4,15,,Trey Benson
+2020,Michigan,Big Ten,FR,RB,6,26,77,3.0,2,12.8,5,73,14.6,0,12.2,31,150,4.8,2,,Blake Corum
+2021*,Michigan,Big Ten,SO,RB,12,143,952,6.7,11,79.3,24,141,5.9,1,11.8,167,1093,6.5,12,,Blake Corum
+2022*,Michigan,Big Ten,JR,RB,12,247,1463,5.9,18,121.9,11,80,7.3,1,6.7,258,1543,6.0,19,"H-7,AA",Blake Corum
+2023*,Michigan,Big Ten,SR,RB,15,258,1245,4.8,27,83.0,16,117,7.3,1,7.8,274,1362,5.0,28,H-9,Blake Corum
+2021*,South Carolina,SEC,FR,RB,12,64,228,3.6,1,19.0,3,44,14.7,0,3.7,67,272,4.1,1,,MarShawn Lloyd
+2022*,South Carolina,SEC,SO,RB,9,111,573,5.2,9,63.7,18,176,9.8,2,19.6,129,749,5.8,11,,MarShawn Lloyd
+2023*,USC,Pac-12,JR,RB,11,116,820,7.1,9,74.5,13,232,17.8,0,21.1,129,1052,8.2,9,,MarShawn Lloyd
+2021*,Tennessee,SEC,FR,RB,9,85,409,4.8,4,45.4,6,22,3.7,0,2.4,91,431,4.7,4,,Jaylen Wright
+2022*,Tennessee,SEC,SO,RB,13,146,875,6.0,10,67.3,2,8,4.0,0,0.6,148,883,6.0,10,,Jaylen Wright
+2023*,Tennessee,SEC,JR,RB,12,137,1013,7.4,4,84.4,22,141,6.4,0,11.8,159,1154,7.3,4,,Jaylen Wright
+2021*,Minnesota,Big Ten,FR,RB,12,133,699,5.3,4,58.3,8,73,9.1,0,6.1,141,772,5.5,4,,Bucky Irving
+2022*,Oregon,Pac-12,SO,RB,13,156,1058,6.8,5,81.4,31,299,9.6,3,23.0,187,1357,7.3,8,,Bucky Irving
+2023*,Oregon,Pac-12,JR,RB,14,186,1180,6.3,11,84.3,56,413,7.4,2,29.5,242,1593,6.6,13,,Bucky Irving
+2021*,Clemson,ACC,FR,RB,10,149,738,5.0,11,73.8,16,116,7.3,0,11.6,165,854,5.2,11,,Will Shipley
+2022*,Clemson,ACC,SO,RB,14,210,1182,5.6,15,84.4,38,242,6.4,0,17.3,248,1424,5.7,15,,Will Shipley
+2023*,Clemson,ACC,JR,RB,12,167,827,5.0,5,68.9,31,244,7.9,2,20.3,198,1071,5.4,7,,Will Shipley
+2019*,Temple,American,FR,RB,12,193,936,4.8,8,78.0,15,181,12.1,2,15.1,208,1117,5.4,10,,Ray Davis
+2020,Temple,American,SO,RB,4,78,308,3.9,1,77.0,12,62,5.2,0,15.5,90,370,4.1,1,,Ray Davis
+2021,Vanderbilt,SEC,JR,RB,3,44,211,4.8,1,70.3,5,27,5.4,0,9.0,49,238,4.9,1,,Ray Davis
+2022,Vanderbilt,SEC,SR,RB,12,232,1042,4.5,5,86.8,29,169,5.8,3,14.1,261,1211,4.6,8,,Ray Davis
+2023*,Kentucky,SEC,SR,RB,13,199,1129,5.7,14,86.8,33,323,9.8,7,24.8,232,1452,6.3,21,,Ray Davis
+2021*,Wisconsin,Big Ten,FR,RB,12,186,1268,6.8,12,105.7,8,39,4.9,0,3.3,194,1307,6.7,12,,Braelon Allen
+2022*,Wisconsin,Big Ten,SO,RB,12,230,1242,5.4,11,103.5,13,104,8.0,0,8.7,243,1346,5.5,11,,Braelon Allen
+2023*,Wisconsin,Big Ten,JR,RB,11,181,984,5.4,12,89.5,28,132,4.7,0,12.0,209,1116,5.3,12,,Braelon Allen
+2021*,Notre Dame,Ind,FR,RB,12,7,60,8.6,0,5.0,0,0,,0,0.0,7,60,8.6,0,,Audric Estime
+2022*,Notre Dame,Ind,SO,RB,13,156,920,5.9,11,70.8,9,135,15.0,1,10.4,165,1055,6.4,12,,Audric Estime
+2023*,Notre Dame,Ind,JR,RB,12,210,1341,6.4,18,111.8,17,142,8.4,0,11.8,227,1483,6.5,18,,Audric Estime
+2020*,Marshall,CUSA,FR,RB,6,5,22,4.4,0,3.7,0,0,,0,0.0,5,22,4.4,0,,Rasheen Ali
+2021*,Marshall,CUSA,FR,RB,13,250,1401,5.6,23,107.8,46,342,7.4,1,26.3,296,1743,5.9,24,,Rasheen Ali
+2022*,Marshall,Sun Belt,SO,RB,3,47,273,5.8,1,91.0,2,10,5.0,1,3.3,49,283,5.8,2,,Rasheen Ali
+2023*,Marshall,Sun Belt,JR,RB,12,212,1135,5.4,15,94.6,28,213,7.6,1,17.8,240,1348,5.6,16,,Rasheen Ali
+2019*,Alabama,SEC,FR,RB,8,39,254,6.5,2,31.8,0,0,,0,0.0,39,254,6.5,2,,Keilan Robinson
+,,,,,,,,,,,,,,,,,,,,,Keilan Robinson
+2021,Texas,Big 12,SO,RB,11,45,322,7.2,3,29.3,7,57,8.1,0,5.2,52,379,7.3,3,,Keilan Robinson
+2022*,Texas,Big 12,JR,RB,13,25,86,3.4,0,6.6,20,219,11.0,3,16.8,45,305,6.8,3,,Keilan Robinson
+2023*,Texas,Big 12,SR,RB,13,12,134,11.2,3,10.3,8,56,7.0,0,4.3,20,190,9.5,3,,Keilan Robinson
+2020,Troy,Sun Belt,FR,RB,9,101,516,5.1,4,57.3,26,225,8.7,0,25.0,127,741,5.8,4,,Kimani Vidal
+2021,Troy,Sun Belt,FR,RB,11,152,701,4.6,5,63.7,22,134,6.1,0,12.2,174,835,4.8,5,,Kimani Vidal
+2022*,Troy,Sun Belt,SO,RB,14,231,1132,4.9,10,80.9,26,140,5.4,0,10.0,257,1272,4.9,10,,Kimani Vidal
+2023*,Troy,Sun Belt,JR,RB,14,297,1661,5.6,14,118.6,18,201,11.2,1,14.4,315,1862,5.9,15,,Kimani Vidal
+2020*,Alabama,SEC,FR,RB,11,23,245,10.7,2,22.3,1,1,1.0,0,0.1,24,246,10.3,2,,Jase McClellan
+2021*,Alabama,SEC,SO,RB,5,40,191,4.8,1,38.2,10,97,9.7,3,19.4,50,288,5.8,4,,Jase McClellan
+2022*,Alabama,SEC,JR,RB,13,112,655,5.8,7,50.4,14,174,12.4,3,13.4,126,829,6.6,10,,Jase McClellan
+2023*,Alabama,SEC,SR,RB,13,180,890,4.9,8,68.5,15,137,9.1,0,10.5,195,1027,5.3,8,,Jase McClellan
+2019,Syracuse,ACC,FR,RB,4,15,105,7.0,1,26.3,2,87,43.5,0,21.8,17,192,11.3,1,,Jawhar Jordan
+2020,Syracuse,ACC,FR,RB,3,29,72,2.5,0,24.0,5,34,6.8,0,11.3,34,106,3.1,0,,Jawhar Jordan
+2021*,Louisville,ACC,FR,RB,4,14,94,6.7,0,23.5,1,24,24.0,0,6.0,15,118,7.9,0,,Jawhar Jordan
+2022*,Louisville,ACC,JR,RB,13,142,815,5.7,4,62.7,10,85,8.5,0,6.5,152,900,5.9,4,,Jawhar Jordan
+2023*,Louisville,ACC,JR,RB,13,181,1128,6.2,13,86.8,21,246,11.7,1,18.9,202,1374,6.8,14,,Jawhar Jordan
+2019*,Texas,Big 12,FR,RB,1,0,0,,0,0.0,2,17,8.5,0,17.0,2,17,8.5,0,,Jordan Whittington
+2020*,Texas,Big 12,FR,WR,5,3,50,16.7,1,10.0,21,206,9.8,0,41.2,24,256,10.7,1,,Jordan Whittington
+2021,Texas,Big 12,SO,WR,8,1,8,8.0,0,1.0,26,377,14.5,3,47.1,27,385,14.3,3,,Jordan Whittington
+2022*,Texas,Big 12,JR,WR,13,0,0,,0,0.0,50,652,13.0,1,50.2,50,652,13.0,1,,Jordan Whittington
+2023*,Texas,Big 12,SR,WR,14,3,18,6.0,0,1.3,42,505,12.0,1,36.1,45,523,11.6,1,,Jordan Whittington

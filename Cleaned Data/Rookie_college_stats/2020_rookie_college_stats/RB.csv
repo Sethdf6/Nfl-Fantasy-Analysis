@@ -1,0 +1,54 @@
+Season,Team,Conf,Class,Pos,G,Rushing Att,Rushing Yds,Rushing Y/A,Rushing TD,Rushing Y/G,Receiving Rec,Receiving Yds,Receiving Y/R,Receiving TD,Receiving Y/G,Scrimmage Plays,Scrimmage Yds,Scrimmage Avg,Scrimmage TD,Awards,Player
+2017*,LSU,SEC,FR,RB,13,9,31,3.4,0,2.4,3,46,15.3,0,3.5,12,77,6.4,0,,Clyde Edwards-Helaire
+2018*,LSU,SEC,SO,RB,13,146,658,4.5,7,50.6,11,96,8.7,0,7.4,157,754,4.8,7,,Clyde Edwards-Helaire
+2019*,LSU,SEC,JR,RB,15,215,1414,6.6,16,94.3,55,453,8.2,1,30.2,270,1867,6.9,17,,Clyde Edwards-Helaire
+2017*,Georgia,SEC,FR,RB,15,81,618,7.6,3,41.2,17,153,9.0,1,10.2,98,771,7.9,4,,D'Andre Swift
+2018*,Georgia,SEC,SO,RB,14,163,1049,6.4,10,74.9,32,297,9.3,3,21.2,195,1346,6.9,13,,D'Andre Swift
+2019*,Georgia,SEC,JR,RB,14,196,1218,6.2,7,87.0,24,216,9.0,1,15.4,220,1434,6.5,8,,D'Andre Swift
+2017*,Wisconsin,Big Ten,FR,RB,14,299,1977,6.6,13,141.2,8,95,11.9,0,6.8,307,2072,6.7,13,H-6,Jonathan Taylor
+2018*,Wisconsin,Big Ten,SO,RB,13,307,2194,7.1,16,168.8,8,60,7.5,0,4.6,315,2254,7.2,16,"H-9,AA",Jonathan Taylor
+2019*,Wisconsin,Big Ten,JR,RB,14,320,2003,6.3,21,143.1,26,252,9.7,5,18.0,346,2255,6.5,26,"H-5,AA",Jonathan Taylor
+2017*,Florida State,ACC,FR,RB,13,194,1024,5.3,7,78.8,16,116,7.3,1,8.9,210,1140,5.4,8,,Cam Akers
+2018,Florida State,ACC,SO,RB,12,161,706,4.4,6,58.8,23,145,6.3,2,12.1,184,851,4.6,8,,Cam Akers
+2019*,Florida State,ACC,JR,RB,11,231,1144,5.0,14,104.0,30,225,7.5,4,20.5,261,1369,5.2,18,,Cam Akers
+2017*,Ohio State,Big Ten,FR,RB,14,194,1403,7.2,7,100.2,22,135,6.1,1,9.6,216,1538,7.1,8,,J.K. Dobbins
+2018*,Ohio State,Big Ten,SO,RB,14,230,1053,4.6,10,75.2,26,263,10.1,2,18.8,256,1316,5.1,12,,J.K. Dobbins
+2019*,Ohio State,Big Ten,JR,RB,14,301,2003,6.7,21,143.1,23,247,10.7,2,17.6,324,2250,6.9,23,H-6,J.K. Dobbins
+2017*,Boston College,ACC,FR,RB,13,300,1589,5.3,14,122.2,0,0,,0,0.0,300,1589,5.3,14,,AJ Dillon
+2018,Boston College,ACC,SO,RB,10,227,1108,4.9,10,110.8,8,41,5.1,1,4.1,235,1149,4.9,11,,AJ Dillon
+2019*,Boston College,ACC,JR,RB,13,318,1685,5.3,14,129.6,13,195,15.0,1,15.0,331,1880,5.7,15,,AJ Dillon
+2015,Illinois,Big Ten,FR,RB,11,157,723,4.6,6,65.7,16,119,7.4,0,10.8,173,842,4.9,6,,Ke'Shawn Vaughn
+2016,Illinois,Big Ten,SO,RB,11,60,301,5.0,3,27.4,9,89,9.9,0,8.1,69,390,5.7,3,,Ke'Shawn Vaughn
+,,,,,,,,,,,,,,,,,,,,,Ke'Shawn Vaughn
+2018*,Vanderbilt,SEC,JR,RB,12,157,1244,7.9,12,103.7,13,170,13.1,2,14.2,170,1414,8.3,14,,Ke'Shawn Vaughn
+2019,Vanderbilt,SEC,SR,RB,12,198,1028,5.2,9,85.7,29,286,9.9,1,23.8,227,1314,5.8,10,,Ke'Shawn Vaughn
+2016*,Utah,Pac-12,FR,RB,10,84,382,4.5,2,38.2,1,4,4.0,0,0.4,85,386,4.5,2,,Zack Moss
+2017*,Utah,Pac-12,SO,RB,13,214,1173,5.5,10,90.2,29,243,8.4,0,18.7,243,1416,5.8,10,,Zack Moss
+2018*,Utah,Pac-12,JR,RB,9,179,1096,6.1,11,121.8,8,50,6.3,1,5.6,187,1146,6.1,12,,Zack Moss
+2019*,Utah,Pac-12,SR,RB,13,235,1416,6.0,15,108.9,28,388,13.9,2,29.8,263,1804,6.9,17,,Zack Moss
+2016*,Appalachian State,Sun Belt,FR,RB,12,48,217,4.5,0,18.1,6,34,5.7,0,2.8,54,251,4.6,0,,Darrynton Evans
+,,,,,,,,,,,,,,,,,,,,,Darrynton Evans
+2018*,Appalachian State,Sun Belt,SO,RB,13,179,1187,6.6,7,91.3,12,87,7.3,1,6.7,191,1274,6.7,8,,Darrynton Evans
+2019*,Appalachian State,Sun Belt,JR,RB,14,255,1480,5.8,18,105.7,21,198,9.4,5,14.1,276,1678,6.1,23,,Darrynton Evans
+2018,UCLA,Pac-12,SR,RB,11,225,1243,5.5,12,113.0,27,193,7.1,0,17.5,252,1436,5.7,12,,Joshua Kelley
+2019,UCLA,Pac-12,SR,RB,11,229,1060,4.6,12,96.4,11,71,6.5,1,6.5,240,1131,4.7,13,,Joshua Kelley
+2016*,Florida,SEC,FR,RB,13,91,421,4.6,1,32.4,9,161,17.9,1,12.4,100,582,5.8,2,,La'Mical Perine
+2017,Florida,SEC,SO,RB,11,136,562,4.1,8,51.1,10,81,8.1,1,7.4,146,643,4.4,9,,La'Mical Perine
+2018*,Florida,SEC,JR,RB,13,134,826,6.2,7,63.5,13,170,13.1,1,13.1,147,996,6.8,8,,La'Mical Perine
+2019*,Florida,SEC,SR,RB,13,132,676,5.1,6,52.0,40,262,6.6,5,20.2,172,938,5.5,11,,La'Mical Perine
+2018,Maryland,Big Ten,FR,RB,12,131,1034,7.9,4,86.2,7,73,10.4,0,6.1,138,1107,8.0,4,,Anthony McFarland Jr.
+2019,Maryland,Big Ten,SO,RB,11,114,614,5.4,8,55.8,17,126,7.4,1,11.5,131,740,5.6,9,,Anthony McFarland Jr.
+2017*,Miami (FL),ACC,FR,RB,12,41,217,5.3,3,18.1,4,92,23.0,0,7.7,45,309,6.9,3,,DeeJay Dallas
+2018*,Miami (FL),ACC,SO,RB,13,109,617,5.7,6,47.5,10,85,8.5,0,6.5,119,702,5.9,6,,DeeJay Dallas
+2019*,Miami (FL),ACC,JR,RB,10,115,693,6.0,8,69.3,14,140,10.0,2,14.0,129,833,6.5,10,,DeeJay Dallas
+2016,New Mexico State,Sun Belt,FR,RB,11,40,167,4.2,1,15.2,8,35,4.4,0,3.2,48,202,4.2,1,,Jason Huntley
+2017*,New Mexico State,Sun Belt,SO,RB,12,70,420,6.0,1,35.0,39,363,9.3,2,30.3,109,783,7.2,3,,Jason Huntley
+2018,New Mexico State,Ind,JR,RB,12,109,505,4.6,7,42.1,47,529,11.3,3,44.1,156,1034,6.6,10,,Jason Huntley
+2019,New Mexico State,Ind,SR,RB,12,154,1090,7.1,9,90.8,40,192,4.8,2,16.0,194,1282,6.6,11,,Jason Huntley
+2017*,Arizona State,Pac-12,FR,RB,10,23,142,6.2,1,14.2,5,15,3.0,0,1.5,28,157,5.6,1,,Eno Benjamin
+2018*,Arizona State,Pac-12,SO,RB,13,300,1642,5.5,16,126.3,35,263,7.5,2,20.2,335,1905,5.7,18,,Eno Benjamin
+2019*,Arizona State,Pac-12,JR,RB,12,253,1083,4.3,10,90.3,42,347,8.3,2,28.9,295,1430,4.8,12,,Eno Benjamin
+2016*,Louisiana,Sun Belt,FR,RB,9,23,117,5.1,1,13.0,0,0,,0,0.0,23,117,5.1,1,,Raymond Calais
+2017,Louisiana,Sun Belt,SO,RB,12,15,88,5.9,1,7.3,1,9,9.0,0,0.8,16,97,6.1,1,,Raymond Calais
+2018*,Louisiana,Sun Belt,JR,RB,14,81,754,9.3,7,53.9,6,69,11.5,0,4.9,87,823,9.5,7,,Raymond Calais
+2019*,Louisiana,Sun Belt,SR,RB,14,117,886,7.6,6,63.3,10,67,6.7,1,4.8,127,953,7.5,7,,Raymond Calais

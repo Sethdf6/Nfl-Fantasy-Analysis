@@ -1,0 +1,50 @@
+Season,Team,Conf,Class,Pos,G,Receiving Rec,Receiving Yds,Receiving Y/R,Receiving TD,Receiving Y/G,Rushing Att,Rushing Yds,Rushing Y/A,Rushing TD,Rushing Y/G,Scrimmage Plays,Scrimmage Yds,Scrimmage Avg,Scrimmage TD,Awards,Player
+2012*,Michigan,Big Ten,FR,TE,13,15,234,15.6,5,18.0,0,0,,0,0.0,15,234,15.6,5,,Devin Funchess
+2013*,Michigan,Big Ten,SO,TE,13,49,748,15.3,6,57.5,6,34,5.7,0,2.6,55,782,14.2,6,,Devin Funchess
+2014,Michigan,Big Ten,JR,WR,11,62,733,11.8,4,66.6,2,-11,-5.5,0,-1.0,64,722,11.3,4,,Devin Funchess
+2013*,Minnesota,Big Ten,FR,TE,13,25,417,16.7,5,32.1,1,7,7.0,0,0.5,26,424,16.3,5,,Maxx Williams
+2014*,Minnesota,Big Ten,SO,TE,12,36,569,15.8,8,47.4,0,0,,0,0.0,36,569,15.8,8,,Maxx Williams
+2011,Miami (FL),ACC,FR,TE,12,18,172,9.6,1,14.3,0,0,,0,0.0,18,172,9.6,1,,Clive Walford
+2012,Miami (FL),ACC,SO,TE,12,25,451,18.0,4,37.6,0,0,,0,0.0,25,451,18.0,4,,Clive Walford
+2013*,Miami (FL),ACC,JR,TE,12,34,454,13.4,2,37.8,0,0,,0,0.0,34,454,13.4,2,,Clive Walford
+2014*,Miami (FL),ACC,SR,TE,12,44,676,15.4,7,56.3,0,0,,0,0.0,44,676,15.4,7,,Clive Walford
+2012*,Rutgers,Big East,FR,TE,11,3,59,19.7,1,5.4,0,0,,0,0.0,3,59,19.7,1,,Tyler Kroft
+2013*,Rutgers,American,SO,TE,13,43,573,13.3,4,44.1,0,0,,0,0.0,43,573,13.3,4,,Tyler Kroft
+2014*,Rutgers,Big Ten,JR,TE,13,24,269,11.2,0,20.7,0,0,,0,0.0,24,269,11.2,0,,Tyler Kroft
+2011*,Ohio State,Big Ten,FR,TE,11,1,25,25.0,0,2.3,0,0,,0,0.0,1,25,25.0,0,,Jeff Heuerman
+2012,Ohio State,Big Ten,SO,TE,12,8,94,11.8,1,7.8,0,0,,0,0.0,8,94,11.8,1,,Jeff Heuerman
+2013*,Ohio State,Big Ten,JR,TE,10,26,466,17.9,4,46.6,1,6,6.0,0,0.6,27,472,17.5,4,,Jeff Heuerman
+2014*,Ohio State,Big Ten,SR,TE,14,17,207,12.2,2,14.8,0,0,,0,0.0,17,207,12.2,2,,Jeff Heuerman
+2011*,Auburn,SEC,FR,TE,13,0,0,,0,0.0,0,0,,0,0.0,0,0,,0,,C.J. Uzomah
+2012,Auburn,SEC,SO,TE,11,7,136,19.4,1,12.4,0,0,,0,0.0,7,136,19.4,1,,C.J. Uzomah
+2013*,Auburn,SEC,JR,WR,6,11,154,14.0,3,25.7,0,0,,0,0.0,11,154,14.0,3,,C.J. Uzomah
+2014*,Auburn,SEC,SR,TE,13,11,145,13.2,3,11.2,1,1,1.0,0,0.1,12,146,12.2,3,,C.J. Uzomah
+2012,Penn State,Big Ten,FR,TE,10,15,276,18.4,5,27.6,0,0,,0,0.0,15,276,18.4,5,,Jesse James
+2013,Penn State,Big Ten,SO,TE,10,25,333,13.3,3,33.3,0,0,,0,0.0,25,333,13.3,3,,Jesse James
+2014*,Penn State,Big Ten,JR,TE,13,38,396,10.4,3,30.5,0,0,,0,0.0,38,396,10.4,3,,Jesse James
+2011*,Florida State,ACC,FR,TE,13,12,164,13.7,1,12.6,0,0,,0,0.0,12,164,13.7,1,,Nick O'Leary
+2012*,Florida State,ACC,SO,TE,13,21,252,12.0,3,19.4,0,0,,0,0.0,21,252,12.0,3,,Nick O'Leary
+2013*,Florida State,ACC,JR,TE,12,33,557,16.9,7,46.4,0,0,,0,0.0,33,557,16.9,7,,Nick O'Leary
+2014*,Florida State,ACC,SR,TE,14,48,618,12.9,6,44.1,0,0,,1,0.0,48,618,12.9,7,AA,Nick O'Leary
+2011,USC,Pac-12,FR,TE,12,26,273,10.5,5,22.8,0,0,,0,0.0,26,273,10.5,5,,Randall Telfer
+2012*,USC,Pac-12,SO,TE,12,12,100,8.3,4,8.3,0,0,,0,0.0,12,100,8.3,4,,Randall Telfer
+2013*,USC,Pac-12,SR,TE,5,6,78,13.0,1,15.6,0,0,,0,0.0,6,78,13.0,1,,Randall Telfer
+2014*,USC,Pac-12,SR,TE,13,21,197,9.4,2,15.2,0,0,,0,0.0,21,197,9.4,2,,Randall Telfer
+2011,UAB,CUSA,FR,TE,12,6,43,7.2,0,3.6,0,0,,0,0.0,6,43,7.2,0,,Kennard Backman
+2012,UAB,CUSA,SO,TE,12,23,235,10.2,4,19.6,0,0,,0,0.0,23,235,10.2,4,,Kennard Backman
+2013,UAB,CUSA,JR,TE,11,28,302,10.8,2,27.5,0,0,,0,0.0,28,302,10.8,2,,Kennard Backman
+2014,UAB,CUSA,SR,TE,12,39,399,10.2,3,33.3,0,0,,0,0.0,39,399,10.2,3,,Kennard Backman
+2011*,Notre Dame,Ind,FR,TE,12,1,5,5.0,0,0.4,0,0,,0,0.0,1,5,5.0,0,,Ben Koyack
+2012*,Notre Dame,Ind,SO,TE,12,3,39,13.0,0,3.3,0,0,,0,0.0,3,39,13.0,0,,Ben Koyack
+2013*,Notre Dame,Ind,SO,TE,5,10,171,17.1,3,34.2,0,0,,0,0.0,10,171,17.1,3,,Ben Koyack
+2014*,Notre Dame,Ind,SR,TE,13,30,317,10.6,2,24.4,0,0,,0,0.0,30,317,10.6,2,,Ben Koyack
+2013*,Texas,Big 12,JR,TE,3,3,14,4.7,0,4.7,0,0,,0,0.0,3,14,4.7,0,,Geoff Swaim
+2014*,Texas,Big 12,SR,TE,13,10,70,7.0,1,5.4,0,0,,0,0.0,10,70,7.0,1,,Geoff Swaim
+2011*,South Carolina,SEC,FR,TE,13,8,188,23.5,3,14.5,0,0,,0,0.0,8,188,23.5,3,,Rory Anderson
+2012*,South Carolina,SEC,SO,TE,13,14,271,19.4,5,20.8,0,0,,0,0.0,14,271,19.4,5,,Rory Anderson
+2013*,South Carolina,SEC,JR,TE,9,17,235,13.8,0,26.1,0,0,,0,0.0,17,235,13.8,0,,Rory Anderson
+2014*,South Carolina,SEC,SR,TE,10,22,260,11.8,1,26.0,0,0,,0,0.0,22,260,11.8,1,,Rory Anderson
+2011*,Florida,SEC,SO,TE,7,4,72,18.0,1,10.3,0,0,,0,0.0,4,72,18.0,1,,Gerald Christian
+,,,,,,,,,,,,,,,,,,,,,Gerald Christian
+2013*,Louisville,American,JR,TE,12,28,426,15.2,4,35.5,0,0,,0,0.0,28,426,15.2,4,,Gerald Christian
+2014*,Louisville,ACC,SR,TE,13,32,384,12.0,5,29.5,0,0,,0,0.0,32,384,12.0,5,,Gerald Christian

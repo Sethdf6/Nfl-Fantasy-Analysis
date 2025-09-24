@@ -1,0 +1,21 @@
+Season,Team,Conf,Class,Pos,G,Receiving Rec,Receiving Yds,Receiving Y/R,Receiving TD,Receiving Y/G,Rushing Att,Rushing Yds,Rushing TD,Rushing Y/G,Scrimmage Plays,Scrimmage Yds,Scrimmage Avg,Scrimmage TD,Awards,Player,Rushing Y/A
+2013,Arkansas,SEC,,TE,10,28,409,14.6,4,40.9,0,0,0,0.0,28,409,14.6,4,,Hunter Henry,
+2014*,Arkansas,SEC,SO,TE,13,37,513,13.9,2,39.5,0,0,0,0.0,37,513,13.9,2,,Hunter Henry,
+2015*,Arkansas,SEC,JR,TE,13,51,739,14.5,3,56.8,0,0,0,0.0,51,739,14.5,3,AA,Hunter Henry,
+2014*,Stanford,Pac-12,SO,TE,13,40,499,12.5,2,38.4,0,0,0,0.0,40,499,12.5,2,,Austin Hooper,
+2015*,Stanford,Pac-12,JR,TE,14,34,438,12.9,6,31.3,0,0,0,0.0,34,438,12.9,6,,Austin Hooper,
+2012,Ohio State,Big Ten,SO,TE,12,9,123,13.7,0,10.3,1,-1,0,-0.1,10,122,12.2,0,,Nick Vannett,-1.0
+2013*,Ohio State,Big Ten,SO,TE,5,8,80,10.0,1,16.0,0,0,0,0.0,8,80,10.0,1,,Nick Vannett,
+2014*,Ohio State,Big Ten,JR,TE,14,19,220,11.6,5,15.7,0,0,0,0.0,19,220,11.6,5,,Nick Vannett,
+2015*,Ohio State,Big Ten,SR,TE,13,19,162,8.5,0,12.5,0,0,0,0.0,19,162,8.5,0,,Nick Vannett,
+2012*,South Carolina,SEC,FR,TE,9,4,90,22.5,1,10.0,0,0,0,0.0,4,90,22.5,1,,Jerell Adams,
+2013*,South Carolina,SEC,SO,TE,7,13,187,14.4,2,26.7,0,0,0,0.0,13,187,14.4,2,,Jerell Adams,
+2014*,South Carolina,SEC,JR,TE,13,21,279,13.3,1,21.5,0,0,0,0.0,21,279,13.3,1,,Jerell Adams,
+2015,South Carolina,SEC,SR,TE,12,28,421,15.0,3,35.1,0,0,0,0.0,28,421,15.0,3,,Jerell Adams,
+2013,UTSA,CUSA,SO,TE,5,7,69,9.9,0,13.8,0,0,0,0.0,7,69,9.9,0,,David Morgan,
+2014,UTSA,CUSA,JR,TE,9,20,255,12.8,1,28.3,0,0,0,0.0,20,255,12.8,1,,David Morgan,
+2015,UTSA,CUSA,SR,TE,12,45,566,12.6,5,47.2,0,0,0,0.0,45,566,12.6,5,,David Morgan,
+2012*,Northwestern,Big Ten,FR,TE,13,28,288,10.3,2,22.2,1,2,0,0.2,29,290,10.0,2,,Danny Vitale,2.0
+2013,Northwestern,Big Ten,SO,SB,12,34,382,11.2,3,31.8,4,27,0,2.3,38,409,10.8,3,,Danny Vitale,6.8
+2014,Northwestern,Big Ten,JR,SB,12,40,402,10.1,2,33.5,1,0,0,0.0,41,402,9.8,2,,Danny Vitale,0.0
+2015*,Northwestern,Big Ten,SR,SB,13,33,355,10.8,4,27.3,0,0,0,0.0,33,355,10.8,4,,Danny Vitale,

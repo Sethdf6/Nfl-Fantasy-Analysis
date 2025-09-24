@@ -1,0 +1,52 @@
+Season,Team,Conf,Class,Pos,G,Cmp,Att,Cmp%,Yds,TD,TD%,Int,Int%,Y/A,AY/A,Y/C,Y/G,Rate,Awards,Player
+2013*,Texas Tech,Big 12,FR,QB,8,218,340,64.1,2315,12,3.5,9,2.6,6.8,6.32,10.6,289.4,127.7,,Baker Mayfield
+,,,,,,,,,,,,,,,,,,,,Baker Mayfield
+2015*,Oklahoma,Big 12,SO,QB,13,269,395,68.1,3700,36,9.1,7,1.8,9.4,10.39,13.8,284.6,173.3,H-4,Baker Mayfield
+2016*,Oklahoma,Big 12,JR,QB,13,254,358,70.9,3965,40,11.2,8,2.2,11.1,12.30,15.6,305.0,196.4,H-3,Baker Mayfield
+2017*,Oklahoma,Big 12,SR,QB,14,285,404,70.5,4627,43,10.6,6,1.5,11.5,12.91,16.2,330.5,198.9,"H-1,Maxwell,AA,Camp",Baker Mayfield
+2016*,USC,Pac-12,FR,QB,13,246,366,67.2,3086,31,8.5,9,2.5,8.4,9.02,12.5,237.4,161.1,,Sam Darnold
+2017*,USC,Pac-12,SO,QB,14,303,480,63.1,4143,26,5.4,13,2.7,8.6,8.50,13.7,295.9,148.1,,Sam Darnold
+2015,Wyoming,MWC,SO,QB,2,4,6,66.7,51,0,0.0,0,0.0,8.5,8.50,12.8,25.5,138.1,,Josh Allen
+2016*,Wyoming,MWC,SO,QB,14,209,373,56.0,3203,28,7.5,15,4.0,8.6,8.28,15.3,228.8,144.9,,Josh Allen
+2017*,Wyoming,MWC,JR,QB,11,152,270,56.3,1812,16,5.9,6,2.2,6.7,6.90,11.9,164.7,127.8,,Josh Allen
+2015*,UCLA,Pac-12,FR,QB,13,292,487,60.0,3670,23,4.7,11,2.3,7.5,7.46,12.6,282.3,134.3,,Josh Rosen
+2016,UCLA,Pac-12,SO,QB,6,137,231,59.3,1915,10,4.3,5,2.2,8.3,8.18,14.0,319.2,138.9,,Josh Rosen
+2017*,UCLA,Pac-12,JR,QB,11,283,452,62.6,3756,26,5.8,10,2.2,8.3,8.46,13.3,341.5,147.0,,Josh Rosen
+2015*,Louisville,ACC,FR,QB,12,135,247,54.7,1840,12,4.9,8,3.2,7.4,6.96,13.6,153.3,126.8,,Lamar Jackson
+2016*,Louisville,ACC,SO,QB,13,230,409,56.2,3543,30,7.3,9,2.2,8.7,9.14,15.4,272.5,148.8,"H-1,Maxwell,AA,Camp",Lamar Jackson
+2017*,Louisville,ACC,JR,QB,13,254,430,59.1,3660,27,6.3,10,2.3,8.5,8.72,14.4,281.5,146.6,H-3,Lamar Jackson
+2014*,Oklahoma State,Big 12,FR,QB,3,49,86,57.0,853,6,7.0,4,4.7,9.9,9.22,17.4,284.3,154.0,,Mason Rudolph
+2015*,Oklahoma State,Big 12,SO,QB,13,264,424,62.3,3770,21,5.0,9,2.1,8.9,8.93,14.3,290.0,149.1,,Mason Rudolph
+2016*,Oklahoma State,Big 12,JR,QB,13,284,448,63.4,4091,28,6.3,4,0.9,9.1,9.98,14.4,314.7,158.9,,Mason Rudolph
+2017*,Oklahoma State,Big 12,SR,QB,13,318,489,65.0,4904,37,7.6,9,1.8,10.0,10.71,15.4,377.2,170.6,H-7,Mason Rudolph
+2013,South Florida,American,FR,QB,6,93,175,53.1,1083,3,1.7,9,5.1,6.2,4.22,11.6,180.5,100.5,,Mike White
+2014,South Florida,American,SO,QB,11,122,242,50.4,1639,8,3.3,7,2.9,6.8,6.13,13.4,149.0,112.4,,Mike White
+,,,,,,,,,,,,,,,,,,,,Mike White
+2016*,Western Kentucky,CUSA,JR,QB,14,280,416,67.3,4363,37,8.9,7,1.7,10.5,11.51,15.6,311.6,181.4,,Mike White
+2017*,Western Kentucky,CUSA,SR,QB,13,368,560,65.7,4177,26,4.6,8,1.4,7.5,7.74,11.4,321.3,140.8,,Mike White
+2014,Washington State,Pac-12,FR,QB,5,156,243,64.2,1859,13,5.3,7,2.9,7.7,7.42,11.9,371.8,140.4,,Luke Falk
+2015*,Washington State,Pac-12,SO,QB,12,448,645,69.5,4566,38,5.9,8,1.2,7.1,7.70,10.2,380.5,145.9,,Luke Falk
+2016*,Washington State,Pac-12,JR,QB,13,443,633,70.0,4468,38,6.0,11,1.7,7.1,7.48,10.1,343.7,145.6,,Luke Falk
+2017*,Washington State,Pac-12,SR,QB,12,357,534,66.9,3593,30,5.6,13,2.4,6.7,6.76,10.1,299.4,137.0,,Luke Falk
+2014,Tulane,American,FR,QB,10,185,336,55.1,1962,12,3.6,14,4.2,5.8,4.68,10.6,196.2,107.6,,Tanner Lee
+2015,Tulane,American,SO,QB,9,143,276,51.8,1639,11,4.0,7,2.5,5.9,5.59,11.5,182.1,109.8,,Tanner Lee
+,,,,,,,,,,,,,,,,,,,,Tanner Lee
+2017,Nebraska,Big Ten,JR,QB,12,246,428,57.5,3143,23,5.4,16,3.7,7.3,6.74,12.8,261.9,129.4,,Tanner Lee
+2013,Purdue,Big Ten,FR,QB,8,149,267,55.8,1690,10,3.7,7,2.6,6.3,5.90,11.3,211.3,116.1,,Danny Etling
+2014,Purdue,Big Ten,SO,QB,5,89,162,54.9,800,6,3.7,5,3.1,4.9,4.29,9.0,160.0,102.5,,Danny Etling
+,,,,,,,,,,,,,,,,,,,,Danny Etling
+2016*,LSU,SEC,JR,QB,11,160,269,59.5,2123,11,4.1,5,1.9,7.9,7.87,13.3,193.0,135.6,,Danny Etling
+2017*,LSU,SEC,SR,QB,13,165,275,60.0,2463,16,5.8,2,0.7,9.0,9.79,14.9,189.5,153.0,,Danny Etling
+2014,Florida International,CUSA,FR,QB,12,138,274,50.4,1680,14,5.1,10,3.6,6.1,5.51,12.2,140.0,111.4,,Alex McGough
+2015,Florida International,CUSA,SO,QB,12,269,420,64.0,2722,21,5.0,8,1.9,6.5,6.62,10.1,226.8,131.2,,Alex McGough
+2016,Florida International,CUSA,JR,QB,9,167,286,58.4,1891,13,4.5,11,3.8,6.6,5.79,11.3,210.1,121.2,,Alex McGough
+2017*,Florida International,CUSA,SR,QB,13,232,355,65.4,2798,17,4.8,8,2.3,7.9,7.83,12.1,215.2,142.9,,Alex McGough
+2014*,San Diego State,MWC,FR,QB,6,13,38,34.2,147,1,2.6,2,5.3,3.9,2.03,11.3,24.5,64.9,,Nick Bawden
+2015*,San Diego State,MWC,SO,FB,9,0,0,,0,0,,0,,,,,0.0,,,Nick Bawden
+2016*,San Diego State,MWC,JR,FB,13,0,0,,0,0,,0,,,,,0.0,,,Nick Bawden
+2017*,San Diego State,MWC,SR,FB,12,0,0,,0,0,,0,,,,,0.0,,,Nick Bawden
+2013,Toledo,MAC,FR,QB,4,21,41,51.2,240,1,2.4,0,0.0,5.9,6.34,11.4,60.0,108.4,,Logan Woodside
+2014*,Toledo,MAC,SO,QB,12,185,296,62.5,2263,19,6.4,8,2.7,7.6,7.71,12.2,188.6,142.5,,Logan Woodside
+2015*,Toledo,MAC,JR,QB,1,0,0,,0,0,,0,,,,,0.0,,,Logan Woodside
+2016*,Toledo,MAC,JR,QB,13,289,418,69.1,4129,45,10.8,9,2.2,9.9,11.06,14.3,317.6,183.3,,Logan Woodside
+2017*,Toledo,MAC,SR,QB,14,264,411,64.2,3882,28,6.8,8,1.9,9.4,9.93,14.7,277.3,162.2,,Logan Woodside

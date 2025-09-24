@@ -1,0 +1,37 @@
+Season,Team,Conf,Class,Pos,G,Receiving Rec,Receiving Yds,Receiving Y/R,Receiving TD,Receiving Y/G,Rushing Att,Rushing Yds,Rushing TD,Rushing Y/G,Scrimmage Plays,Scrimmage Yds,Scrimmage Avg,Scrimmage TD,Awards,Player,Rushing Y/A
+2017*,Notre Dame,Ind,FR,TE,13,2,14,7.0,0,1.1,0,0,0,0.0,2,14,7.0,0,,Cole Kmet,
+2018*,Notre Dame,Ind,SO,TE,11,15,162,10.8,0,14.7,0,0,0,0.0,15,162,10.8,0,,Cole Kmet,
+2019*,Notre Dame,Ind,JR,TE,11,43,515,12.0,6,46.8,0,0,0,0.0,43,515,12.0,6,,Cole Kmet,
+2016*,Michigan,Big Ten,FR,TE,13,2,18,9.0,1,1.4,0,0,0,0.0,2,18,9.0,1,,Devin Asiasi,
+,,,,,,,,,,,,,,,,,,,,Devin Asiasi,
+2018,UCLA,Pac-12,JR,TE,9,6,130,21.7,1,14.4,0,0,0,0.0,6,130,21.7,1,,Devin Asiasi,
+2019,UCLA,Pac-12,JR,TE,12,44,641,14.6,4,53.4,0,0,0,0.0,44,641,14.6,4,,Devin Asiasi,
+2016,Cincinnati,American,FR,TE,12,4,47,11.8,0,3.9,1,-2,0,-0.2,5,45,9.0,0,,Josiah Deguara,-2.0
+2017,Cincinnati,American,SO,TE,7,11,98,8.9,0,14.0,0,0,0,0.0,11,98,8.9,0,,Josiah Deguara,
+2018*,Cincinnati,American,JR,TE,13,38,468,12.3,5,36.0,0,0,0,0.0,38,468,12.3,5,,Josiah Deguara,
+2019*,Cincinnati,American,SR,TE,14,39,504,12.9,7,36.0,0,2,1,0.1,39,506,13.0,8,,Josiah Deguara,
+2017*,Virginia Tech,ACC,FR,TE,13,10,167,16.7,0,12.8,0,0,0,0.0,10,167,16.7,0,,Dalton Keene,
+2018*,Virginia Tech,ACC,SO,TE,12,28,341,12.2,3,28.4,0,0,0,0.0,28,341,12.2,3,,Dalton Keene,
+2019*,Virginia Tech,ACC,JR,TE,13,21,240,11.4,5,18.5,11,33,0,2.5,32,273,8.5,5,,Dalton Keene,3.0
+2016,Florida Atlantic,CUSA,FR,TE,12,6,63,10.5,0,5.3,0,0,0,0.0,6,63,10.5,0,,Harrison Bryant,
+2017*,Florida Atlantic,CUSA,SO,TE,11,32,408,12.8,5,37.1,0,0,0,0.0,32,408,12.8,5,,Harrison Bryant,
+2018,Florida Atlantic,CUSA,JR,TE,12,45,662,14.7,4,55.2,1,2,0,0.2,46,664,14.4,4,,Harrison Bryant,2.0
+2019*,Florida Atlantic,CUSA,SR,TE,13,65,1004,15.4,7,77.2,0,0,0,0.0,65,1004,15.4,7,AA,Harrison Bryant,
+2017*,Missouri,SEC,FR,TE,13,29,415,14.3,11,31.9,0,0,0,0.0,29,415,14.3,11,,Albert Okwuegbunam,
+2018*,Missouri,SEC,SO,TE,9,43,466,10.8,6,51.8,0,0,0,0.0,43,466,10.8,6,,Albert Okwuegbunam,
+2019,Missouri,SEC,JR,TE,11,26,306,11.8,6,27.8,0,0,0,0.0,26,306,11.8,6,,Albert Okwuegbunam,
+2017*,Stanford,Pac-12,FR,TE,14,10,97,9.7,4,6.9,0,0,0,0.0,10,97,9.7,4,,Colby Parkinson,
+2018*,Stanford,Pac-12,SO,TE,13,29,485,16.7,7,37.3,0,0,0,0.0,29,485,16.7,7,,Colby Parkinson,
+2019,Stanford,Pac-12,JR,TE,12,48,589,12.3,1,49.1,0,0,0,0.0,48,589,12.3,1,,Colby Parkinson,
+2016,Purdue,Big Ten,FR,TE,11,10,183,18.3,4,16.6,0,0,0,0.0,10,183,18.3,4,,Brycen Hopkins,
+2017*,Purdue,Big Ten,SO,TE,12,25,349,14.0,3,29.1,0,0,0,0.0,25,349,14.0,3,,Brycen Hopkins,
+2018*,Purdue,Big Ten,JR,TE,13,34,583,17.1,2,44.8,0,0,0,0.0,34,583,17.1,2,,Brycen Hopkins,
+2019,Purdue,Big Ten,SR,TE,12,61,830,13.6,7,69.2,0,0,0,0.0,61,830,13.6,7,,Brycen Hopkins,
+2016,Ball State,MAC,SO,TE,12,3,10,3.3,0,0.8,0,0,0,0.0,3,10,3.3,0,,Danny Pinter,
+2017,Ball State,MAC,SO,TE,7,6,46,7.7,1,6.6,0,0,0,0.0,6,46,7.7,1,,Danny Pinter,
+2018,Ball State,MAC,JR,TE,12,0,0,,0,0.0,1,3,0,0.3,1,3,3.0,0,,Danny Pinter,3.0
+2019,Ball State,MAC,SR,OL,12,0,0,,0,0.0,1,5,1,0.4,1,5,5.0,1,,Danny Pinter,5.0
+2016*,Georgia,SEC,FR,TE,12,5,50,10.0,0,4.2,0,0,0,0.0,5,50,10.0,0,,Charlie Woerner,
+2017*,Georgia,SEC,SO,TE,13,9,100,11.1,0,7.7,0,0,0,0.0,9,100,11.1,0,,Charlie Woerner,
+2018*,Georgia,SEC,JR,TE,14,11,148,13.5,0,10.6,0,0,0,0.0,11,148,13.5,0,,Charlie Woerner,
+2019*,Georgia,SEC,SR,TE,14,9,78,8.7,1,5.6,0,0,0,0.0,9,78,8.7,1,,Charlie Woerner,

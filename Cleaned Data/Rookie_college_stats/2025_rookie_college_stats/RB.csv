@@ -1,0 +1,74 @@
+Season,Team,Conf,Class,Pos,G,Rushing Att,Rushing Yds,Rushing Y/A,Rushing TD,Rushing Y/G,Receiving Rec,Receiving Yds,Receiving Y/R,Receiving TD,Receiving Y/G,Scrimmage Plays,Scrimmage Yds,Scrimmage Avg,Scrimmage TD,Awards,Player
+2022*,Boise State,MWC,FR,RB,14,156,821,5.3,7,58.6,14,155,11.1,0,11.1,170,976,5.7,7,,Ashton Jeanty
+2023*,Boise State,MWC,SO,RB,12,220,1347,6.1,14,112.3,43,569,13.2,5,47.4,263,1916,7.3,19,,Ashton Jeanty
+2024,Boise State,MWC,JR,RB,14,374,2601,7.0,29,185.8,23,138,6.0,1,9.9,397,2739,6.9,30,"H-2,Maxwell,AA",Ashton Jeanty
+2022*,North Carolina,ACC,FR,RB,13,88,401,4.6,6,30.8,6,40,6.7,1,3.1,94,441,4.7,7,,Omarion Hampton
+2023*,North Carolina,ACC,SO,RB,13,253,1504,5.9,15,115.7,29,222,7.7,1,17.1,282,1726,6.1,16,,Omarion Hampton
+2024*,North Carolina,ACC,JR,RB,12,281,1660,5.9,15,138.3,38,373,9.8,2,31.1,319,2033,6.4,17,,Omarion Hampton
+2022*,Ole Miss,SEC,FR,RB,13,274,1567,5.7,16,120.5,15,132,8.8,1,10.2,289,1699,5.9,17,,Quinshon Judkins
+2023*,Ole Miss,SEC,SO,RB,13,271,1158,4.3,15,89.1,22,149,6.8,2,11.5,293,1307,4.5,17,,Quinshon Judkins
+2024*,Ohio State,Big Ten,JR,RB,16,194,1060,5.5,14,66.3,22,161,7.3,2,10.1,216,1221,5.7,16,,Quinshon Judkins
+2021*,Ohio State,Big Ten,FR,RB,13,183,1248,6.8,15,96.0,27,312,11.6,4,24.0,210,1560,7.4,19,,TreVeyon Henderson
+2022*,Ohio State,Big Ten,SO,RB,8,107,571,5.3,6,71.4,4,28,7.0,1,3.5,111,599,5.4,7,,TreVeyon Henderson
+2023*,Ohio State,Big Ten,JR,RB,10,156,926,5.9,11,92.6,19,229,12.1,0,22.9,175,1155,6.6,11,,TreVeyon Henderson
+2024*,Ohio State,Big Ten,SR,RB,16,144,1016,7.1,10,63.5,27,284,10.5,1,17.8,171,1300,7.6,11,,TreVeyon Henderson
+2020*,UCF,American,FR,RB,3,3,3,1.0,0,1.0,0,0,,0,0.0,3,3,1.0,0,,RJ Harvey
+,,,,,,,,,,,,,,,,,,,,,RJ Harvey
+2022*,UCF,American,JR,RB,13,118,796,6.7,5,61.2,22,215,9.8,0,16.5,140,1011,7.2,5,,RJ Harvey
+2023*,UCF,Big 12,SR,RB,13,226,1416,6.3,16,108.9,19,238,12.5,1,18.3,245,1654,6.8,17,,RJ Harvey
+2024,UCF,Big 12,SR,RB,12,232,1577,6.8,22,131.4,20,267,13.4,3,22.3,252,1844,7.3,25,,RJ Harvey
+2022*,Iowa,Big Ten,FR,RB,13,151,779,5.2,6,59.9,4,27,6.8,0,2.1,155,806,5.2,6,,Kaleb Johnson
+2023*,Iowa,Big Ten,SO,RB,10,117,463,4.0,3,46.3,3,25,8.3,0,2.5,120,488,4.1,3,,Kaleb Johnson
+2024*,Iowa,Big Ten,JR,RB,12,240,1537,6.4,21,128.1,22,188,8.5,2,15.7,262,1725,6.6,23,AA,Kaleb Johnson
+2023*,Virginia Tech,ACC,JR,RB,13,173,863,5.0,10,66.4,27,239,8.9,2,18.4,200,1102,5.5,12,,Bhayshul Tuten
+2024*,Virginia Tech,ACC,SR,RB,11,183,1159,6.3,15,105.4,23,81,3.5,2,7.4,206,1240,6.0,17,,Bhayshul Tuten
+2023,Arizona State,Pac-12,JR,RB,12,164,783,4.8,9,65.3,24,286,11.9,1,23.8,188,1069,5.7,10,,Cam Skattebo
+2024,Arizona State,Big 12,SR,RB,13,293,1711,5.8,21,131.6,45,605,13.4,3,46.5,338,2316,6.9,24,H-5,Cam Skattebo
+2022*,Florida,SEC,FR,RB,13,118,719,6.1,6,55.3,9,66,7.3,0,5.1,127,785,6.2,6,,Trevor Etienne
+2023,Florida,SEC,SO,RB,11,131,753,5.7,8,68.5,21,172,8.2,1,15.6,152,925,6.1,9,,Trevor Etienne
+2024,Georgia,SEC,JR,RB,10,122,609,5.0,9,60.9,32,194,6.1,0,19.4,154,803,5.2,9,,Trevor Etienne
+2021*,Auburn,SEC,FR,RB,13,89,593,6.7,3,45.6,12,61,5.1,1,4.7,101,654,6.5,4,,Jarquez Hunter
+2022,Auburn,SEC,SO,RB,12,104,668,6.4,7,55.7,17,224,13.2,2,18.7,121,892,7.4,9,,Jarquez Hunter
+2023*,Auburn,SEC,JR,RB,12,159,909,5.7,7,75.8,18,118,6.6,0,9.8,177,1027,5.8,7,,Jarquez Hunter
+2024,Auburn,SEC,SR,RB,12,187,1201,6.4,8,100.1,21,155,7.4,1,12.9,208,1356,6.5,9,,Jarquez Hunter
+2022*,Tennessee,SEC,FR,RB,10,58,397,6.8,6,39.7,3,24,8.0,0,2.4,61,421,6.9,6,,Dylan Sampson
+2023*,Tennessee,SEC,SO,RB,12,106,604,5.7,7,50.3,17,175,10.3,1,14.6,123,779,6.3,8,,Dylan Sampson
+2024,Tennessee,SEC,JR,RB,13,258,1491,5.8,22,114.7,20,143,7.2,0,11.0,278,1634,5.9,22,,Dylan Sampson
+2022*,Oregon,Pac-12,FR,RB,10,46,189,4.1,5,18.9,1,6,6.0,0,0.6,47,195,4.1,5,,Jordan James
+2023*,Oregon,Pac-12,SO,RB,14,107,759,7.1,11,54.2,15,132,8.8,1,9.4,122,891,7.3,12,,Jordan James
+2024,Oregon,Big Ten,JR,RB,14,233,1267,5.4,15,90.5,26,209,8.0,0,14.9,259,1476,5.7,15,,Jordan James
+2022*,Texas,Big 12,FR,RB,9,15,33,2.2,0,3.7,0,0,,0,0.0,15,33,2.2,0,,Jaydon Blue
+2023*,Texas,Big 12,SO,RB,14,65,398,6.1,3,28.4,14,135,9.6,1,9.6,79,533,6.7,4,,Jaydon Blue
+2024*,Texas,SEC,JR,RB,15,134,730,5.4,8,48.7,42,368,8.8,6,24.5,176,1098,6.2,14,,Jaydon Blue
+2022*,Kansas State,Big 12,FR,RB,14,89,518,5.8,6,37.0,8,98,12.3,0,7.0,97,616,6.4,6,,DJ Giddens
+2023*,Kansas State,Big 12,SO,RB,13,223,1226,5.5,10,94.3,29,323,11.1,3,24.8,252,1549,6.1,13,,DJ Giddens
+2024*,Kansas State,Big 12,JR,RB,12,205,1343,6.6,7,111.9,21,258,12.3,1,21.5,226,1601,7.1,8,,DJ Giddens
+2022*,Oklahoma State,Big 12,FR,RB,13,62,308,5.0,2,23.7,12,76,6.3,2,5.8,74,384,5.2,4,,Ollie Gordon
+2023*,Oklahoma State,Big 12,SO,RB,14,285,1732,6.1,21,123.7,39,330,8.5,1,23.6,324,2062,6.4,22,"H-7,AA",Ollie Gordon
+2024,Oklahoma State,Big 12,JR,RB,12,190,880,4.6,13,73.3,29,179,6.2,1,14.9,219,1059,4.8,14,,Ollie Gordon
+2021,Kansas,Big 12,FR,RB,11,158,707,4.5,8,64.3,7,57,8.1,1,5.2,165,764,4.6,9,,Devin Neal
+2022*,Kansas,Big 12,SO,RB,13,180,1090,6.1,9,83.8,21,183,8.7,1,14.1,201,1273,6.3,10,,Devin Neal
+2023*,Kansas,Big 12,JR,RB,13,203,1280,6.3,16,98.5,25,217,8.7,1,16.7,228,1497,6.6,17,,Devin Neal
+2024,Kansas,Big 12,SR,RB,12,219,1266,5.8,16,105.5,24,254,10.6,1,21.2,243,1520,6.3,17,,Devin Neal
+2020,Texas Tech,Big 12,FR,RB,10,69,255,3.7,4,25.5,13,61,4.7,0,6.1,82,316,3.9,4,,Tahj Brooks
+2021*,Texas Tech,Big 12,SO,RB,9,87,568,6.5,7,63.1,6,52,8.7,0,5.8,93,620,6.7,7,,Tahj Brooks
+2022*,Texas Tech,Big 12,JR,RB,13,147,691,4.7,7,53.2,26,164,6.3,1,12.6,173,855,4.9,8,,Tahj Brooks
+2023*,Texas Tech,Big 12,SR,RB,13,290,1538,5.3,10,118.3,29,72,2.5,0,5.5,319,1610,5.0,10,,Tahj Brooks
+2024*,Texas Tech,Big 12,SR,RB,11,286,1505,5.3,17,136.8,28,199,7.1,1,18.1,314,1704,5.4,18,,Tahj Brooks
+2022*,Oregon State,Pac-12,FR,RB,13,161,982,6.1,7,75.5,4,61,15.3,0,4.7,165,1043,6.3,7,,Damien Martinez
+2023*,Oregon State,Pac-12,SO,RB,12,194,1185,6.1,9,98.8,11,126,11.5,0,10.5,205,1311,6.4,9,,Damien Martinez
+2024*,Miami (FL),ACC,JR,RB,13,159,1002,6.3,10,77.1,17,204,12.0,0,15.7,176,1206,6.9,10,,Damien Martinez
+2020,Rutgers,Big Ten,FR,RB,5,0,0,,0,0.0,0,0,,0,0.0,0,0,,0,,Kyle Monangai
+2021*,Rutgers,Big Ten,FR,RB,11,62,236,3.8,4,21.5,10,68,6.8,0,6.2,72,304,4.2,4,,Kyle Monangai
+2022,Rutgers,Big Ten,SO,RB,12,109,445,4.1,2,37.1,6,31,5.2,0,2.6,115,476,4.1,2,,Kyle Monangai
+2023*,Rutgers,Big Ten,JR,RB,13,242,1262,5.2,8,97.1,8,78,9.8,0,6.0,250,1340,5.4,8,,Kyle Monangai
+2024*,Rutgers,Big Ten,SR,RB,11,256,1279,5.0,13,116.3,14,75,5.4,1,6.8,270,1354,5.0,14,,Kyle Monangai
+2022*,Syracuse,ACC,FR,RB,13,41,274,6.7,1,21.1,17,117,6.9,1,9.0,58,391,6.7,2,,LeQuint Allen
+2023*,Syracuse,ACC,SO,RB,13,245,1064,4.3,9,81.8,38,210,5.5,1,16.2,283,1274,4.5,10,,LeQuint Allen
+2024*,Syracuse,ACC,JR,RB,13,228,1021,4.5,16,78.5,64,521,8.1,4,40.1,292,1542,5.3,20,,LeQuint Allen
+2021*,Clemson,ACC,FR,RB,9,68,292,4.3,3,32.4,7,50,7.1,0,5.6,75,342,4.6,3,,Phil Mafah
+2022*,Clemson,ACC,SO,RB,14,98,515,5.3,4,36.8,9,48,5.3,0,3.4,107,563,5.3,4,,Phil Mafah
+2023*,Clemson,ACC,JR,RB,13,179,965,5.4,13,74.2,21,108,5.1,0,8.3,200,1073,5.4,13,,Phil Mafah
+2024,Clemson,ACC,SR,RB,14,216,1115,5.2,8,79.6,21,103,4.9,0,7.4,237,1218,5.1,8,,Phil Mafah
+2023,New Mexico,MWC,SR,RB,12,189,1190,6.3,17,99.2,7,72,10.3,1,6.0,196,1262,6.4,18,,Jacory Croskey-Merritt
+2024,Arizona,Big 12,SR,RB,1,13,106,8.2,1,106.0,0,0,,0,0.0,13,106,8.2,1,,Jacory Croskey-Merritt
