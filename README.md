@@ -18,9 +18,7 @@ We can see the curve is roughly centered on 0 which makes sense as we would expe
 After confirming that the distribution was roughly as expected I moved onto looking at individual under/over performers. I used 2023 data as it seemed to have some clear standouts but any year would have worked. For this year I took the players with the greatest negative difference (over-valued) and greatest positive difference (under-valued) between their ADP and rank.
 
 ![10 overvalued players in 2023](images/over_valued_players_2023.png)
-In 2023 our 10 most overvalued players can be seen above.
 ![10 undervalued players in 2023](images/under_valued_players_2023.png)
-In 2023 the most under valued players are above. 
 
 One thing to note here is just because a player was under valued does not make them good for Fantasy just like an overvalued players is not necessarily bad. Some of these guys were projected for 0 points and then had average seasons which is why they appear so high on this list.
 
@@ -31,16 +29,14 @@ These findings were quite interesting but not exactly unexpected. WR had the hig
 #### Combine Analysis
 For the combine analysis I took combine statistics from Pro Football Reference and looked at how accurate the combine is for predicting a players stats. Before doing this however I looked for simple trends among the combine data alone and then combined it with the NFL stats dataset. 
 
-Below you can see a barchart for the distribution of 40 yard dash times by position. As expected RB, WR, CB, and S had the lowest averages. 
 ![40yd Dash analysis](images/40ydDash.png)
+ As expected RB, WR, CB, and S had the lowest averages. 
 
-Below you can see a chart plotting weight against 40 yd dash time and as expected as weight increases the 40 yd dash time also increases.
 ![weight vs 40 yd dash](images/weightvsdash.png)
-
+As expected as weight increases the 40 yd dash time also increases.
 
 I also made a correlation matrix for all of the combine stats vs the player stats. Most of the values here are as expected. Things like a good vertical correlate to a good braod jump, being tall correlates to weighing more, more yards per game correlates to more touchdowns per game. The only thing that was suprising here was how little stats like 40yd dash were barely correlated with rec yards or rec touchdowns. You'd expect being faster would translate to better stats but that doesn't really seem to be the case. 
 ![combine stats correlation matrix](images/combine_stat_correlation.png)
-<small>There are more detailed correlation matrices for each position in the images folder</small>
 
 After seeing how little the combine stats were correlated with nfl stats I decided to look a little closer at things like how rb dash times correlate to their rushing yards and how wr dash time correlate to their touchdowns:
 
