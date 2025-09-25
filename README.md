@@ -10,9 +10,14 @@ For the analysis I will break it up into four parts for the four jupyter noteboo
 
 #### ADP Analysis
 The purpose of the ADP analysis was to look at a players projected Fantasy draft position and compare it to their actual ranking after the season. I got the ADP values from each year from FantasyPros and the stats from pro Football Reference. For the ADP data I had to clean the data by removing some null values, fixing some of the column names, and splitting some of the columns as the data initially had draft position, team, and round all in the same column with some unnecessary text. For the stats data I had to remove all the irrelevant players and clean up the columns as there was a lot of data that wasn't useful for my analysis. Once this was done I was able to conduct my analysis on which players under and over performed and which patterns could be found to indicate why players did better or worse. 
-![rank distribution](images/rank_diff_distribution_histogram copy.png)
+
+The first thing I looked into was the distribution of players under or overperforming:
+![rank distribution](images/rank_diff_distribution_histogram.png)
+We can see the curve is roughly centered on 0 which makes sense as we would expect roughly the same amount of players to underperform as players who overperform. 
 ![position variance](images/positional_variation.png)
 ![10 overvalued players in 2023](images/over_valued_players_2023.png)
+![10 undervalued players in 2023](images/under_valued_players_2023.png)
+
 
 #### Combine Analysis
 ![40yd Dash analysis](images/40ydDash.png)
