@@ -49,7 +49,49 @@ Likewise here there is absolutely no correlation between dash time and a wr's to
 
 
 #### Draft Analysis
+For the draft analysis I looked at some general stats like which teams had the highest draft pick on average over the last 20 years as well as some more specific ones like how good is a players pick position when predicting their nfl stats.
+![avg draft position by team](images/avg_draft.png)
+Over the last 20 years the Rams had the highest draft picks on average by a significant margin and the Saints had the lowest but by a smaller margin
+
+![rec vs draft](images/rec_vs_draft.png)
+When we look at draft round vs receiving yards we can see that early rounds have a huge range that covers both outstanding players and players who turn out to be busts. In the later rounds however the range is smaller with the highest yardage being capped at around 500 in a season. 
+![rushing vs draft](images/rushing_vs_draft.png)
+Similarly when we look at rushing vs draft round we can see that the early rounds have greater ranges while the later ones are more compressed and tend to show lower yardages which makes sense. 
+
 #### Team Analysis
+Here we look at all team stats compiled over the last 20 years. This is a comparison of the NFL teams to see which offenses are consistently the best, which metrics does each team excel in, and how variant are these teams year to year?
+
+![team tds](images/team_td.png)
+These charts show how effective the Saints offense is over the last 20 years by how high they consistently rank in each stat. It is also impressive how many passing touchdowns Green Bay had as they are right there with the Saints ahead of everyone else by a large margin. Finally the Ravens and the Eagles seemed to have the most success rushing the ball as they ranked the top of rushing yards and near the top for rushing touchdowns. 
+
+![passing by team](images/passing_by_team.png)
+We can see that over the last 20 years the Saints had the most passing completions and most total yards by a large marigin and were a close second in passing yards per attempt by team. One thing to note here is that the y axis of these graphs do not start at 0. I decided it was more important to look at the comparisons between teams then the actual number (because what does 120000 yards even really mean).
+
+![points and wins by team](images/points_by_team.png)
+When we look at total wins, points, opponent points, and penalties by team over the last 20 years we can see some interesting things. The patriots had the most wins by a large margin because of their dynasty. Most opponent points scored on go to the Raiders and the Lions. Total penalties goes to the Raiders by a huge margin which is maybe how they got their reputation as being a dirty team. 
+
+![team variance](images/team_var.png)
+When the team variance is analyzed we can see Kansas City was by far the most variant team as they ranked at the top of almost every category. As a fantasy manager it might be worth being careful picking up offensive cheifs players as the offense might look quite different year to year. 
+
+#### League Trends
+To cap off the analysis I wanted to look at league wide trends to see how the league are changing. Things like total penalties, points scored
+
+
+![total penalties](images/tot_pen.png)
+We can see that the total penalties are generally rising with the notable exception of a huge drop in 2020. This is most likely due to the league directive that changed how officials call and enforce penalties particularly holding calls. 
+
+![total points](images/tot_points.png)
+Here the total NFL points are steadily rising which makes sense as players and offenses are better adapting to scoring. One thing to note here is the drop in points in 2017. This could be because 2017 was a crucial year when defenses began to evolve and play a different defenses (like a two-high safety strategy) to stifle teams.
+
+![total touchdowns](images/tot_td.png)
+Following the trend above we can see total touchdowns steadily rising with the exception of the drop in 2017.
+
+![fantasy point variation](images/yearly_variation.png)
+Finally I looked at variation in fantasy performance which has steadily been dropping over the years. It is quite suprising how much it has been dropping but it makes sense as models are getting better and better at predicting player performance. 
 
 ## Conclusion
-## Acknowledgments
+In conclusion I hope this project is able to offer some insight into how the league has been evolving over the last 20 years and which metrics are the most reliable when making predictions. My takeaways would be that the combine is generally not the best way to predict performance and instead a combination of draft position and team statistics would be ideal. There are also other smaller takeaways that I had including which teams and positions had the highest variance (Kansas city and WRs) that could aid managers when doing fantasy drafts. Maybe it is a good idea to steer clear of the teams with high variance and draft high variance positions later as they are more unpredictable. 
+
+With this being said the analysis done in this project is not conclusive and further testing would need to be done to confirm any trends. I think a future goal could be to use these insights to build a model that could predict a players under or overperformance.
+### Acknowledgments
+The data for this projected was from Pro Football Reference, the official NFL website, and FantasyPros.
